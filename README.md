@@ -9,6 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 3. Now you be able to run a development version of the project on our computer by deploying the following on your terminal (This will run the app in the development mode):
 
  `npm start`
+
 4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.The page will reload when you make changes.You may also see any lint errors in the console.
 
 
