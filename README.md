@@ -4,17 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployment
 
-In the project directory, you can run:
+1. First, you’ll need to clone the repo to your machine. 
+2. Once you have cloned the project repository to our local machine make sure you have installed dependencies using either NPM or yarn (i.e. npm install or yarn install)
+3. Now you be able to run a development version of the project on our computer by deploying the following on your terminal (This will run the app in the development mode):
 
-### `npm start`
+ `npm start`
+4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.The page will reload when you make changes.You may also see any lint errors in the console.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-Or else you can deploy this app on your computer by downloading the files and then run it using npm start from your terminal
 
 ## Rules of the game
 
